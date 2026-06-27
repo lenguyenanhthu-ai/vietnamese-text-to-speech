@@ -1,6 +1,6 @@
 # Vietnamese Text-to-Speech (TTS) Model – NLP PiperTTS
 
-**Initial Release – Developed by BabyKemThu**
+**Initial Release – Developed by AnhThu**
 
 This repository provides the initial release of a Vietnamese Text-to-Speech (TTS) model developed by the author using the **Piper framework** with **VITS (Variational Inference Text-to-Speech) architecture**. The model has been trained on high-quality Vietnamese speech data to generate natural and intelligible speech from textual input. The ONNX format ensures cross-platform compatibility and ease of integration into various applications.
 
